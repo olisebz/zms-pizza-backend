@@ -20,7 +20,8 @@ Welcome to the AstroPizza Backend repository! This backend system powers the del
 
 ## Contributors
 
-- ymeichtry
-- domixsch
+- **@ymeichtry**: [GitHub Profile](https://github.com/ymeichtry)
+- **@olisebz**: [GitHub Profile](https://github.com/olisebz)
+- **@domixsch**: [GitHub Profile](https://github.com/domixsch)
 
 Enjoy your AstroPizza experience! 🍕🚀
