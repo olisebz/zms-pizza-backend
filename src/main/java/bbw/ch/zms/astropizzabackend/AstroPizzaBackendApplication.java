@@ -8,6 +8,7 @@ public class AstroPizzaBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AstroPizzaBackendApplication.class, args);
+		System.out.println("Hello World");
 	}
 
 }
