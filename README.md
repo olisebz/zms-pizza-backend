@@ -1,6 +1,6 @@
-**AstroPizza Backend**
+**ZMS Backend**
 
-Welcome to the AstroPizza Backend repository! This backend system powers the delicious AstroPizza online ordering platform. Here's everything you need to know to get started:
+Welcome to the ZMS Pizza Backend repository! This backend system powers the delicious AstroPizza online ordering platform. Here's everything you need to know to get started:
 
 ## Technologies Used
 
