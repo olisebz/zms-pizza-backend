@@ -8,7 +8,6 @@ public class ZmsPizzaBackendApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ZmsPizzaBackendApplication.class, args);
-		System.out.println("hello world");
 	}
 
 }
