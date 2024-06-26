@@ -11,7 +11,7 @@ Welcome to the ZMS Pizza Backend repository! This backend system powers the deli
 
 ## Installation
 
-1. Clone the repository to your local machine: `git clone [repository URL]`.
+1. Clone the repository to your local machine: `git clone https://github.com/olisebz/zms-pizza-backend.git`.
 2. Navigate to the project directory.
 3. Ensure you have Java and Maven installed.
 4. Build the project using Maven: `mvn clean install`.
